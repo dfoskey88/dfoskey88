@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dallin
--  I’m interested in robotics
+-  I’m interested in Robotics/ AeroSpace
 -  I’m currently learning Python, CSS, Java,and HTML.
 -  I’m looking to collaborate on various programming projects.
 - 📫 How to reach me Email: Foskeydallin693@gmail.com 
